@@ -1,12 +1,36 @@
 {
   "study_tips": [
-    "Study for at least 1 hour daily.",
-    "Take short breaks while studying.",
-    "Practice coding every day."
+    "Use the Pomodoro Technique: study for 25 minutes, then take a 5-minute break.",
+    "Teach what you've learned to someone else — it's the fastest way to master a topic.",
+    "Review your notes within 24 hours of a lecture to boost long-term retention.",
+    "Break large tasks into smaller, specific goals so progress feels achievable.",
+    "Use active recall: close your notes and try to write down everything you remember.",
+    "Study in a consistent location to train your brain to focus on demand.",
+    "Get 7–9 hours of sleep — memory consolidation happens during deep sleep.",
+    "Use spaced repetition: review material at increasing intervals over time.",
+    "Eliminate distractions by putting your phone on silent and using website blockers.",
+    "Stay hydrated — even mild dehydration reduces concentration and memory.",
+    "Use mind maps to visually connect concepts and see the big picture.",
+    "Don't just re-read; highlight, summarise, and question the material.",
+    "Study with a group to gain new perspectives and stay accountable.",
+    "Set a specific study schedule and treat it like an important appointment.",
+    "Reward yourself after completing study sessions to build positive habits."
   ],
   "motivation_quotes": [
-    "Success comes from consistency.",
-    "Never stop learning.",
-    "Believe in yourself."
+    {"quote": "The secret of getting ahead is getting started.", "author": "Mark Twain"},
+    {"quote": "It always seems impossible until it's done.", "author": "Nelson Mandela"},
+    {"quote": "Don't watch the clock; do what it does. Keep going.", "author": "Sam Levenson"},
+    {"quote": "Success is the sum of small efforts repeated day in and day out.", "author": "Robert Collier"},
+    {"quote": "Believe you can and you're halfway there.", "author": "Theodore Roosevelt"},
+    {"quote": "Education is the most powerful weapon you can use to change the world.", "author": "Nelson Mandela"},
+    {"quote": "The expert in anything was once a beginner.", "author": "Helen Hayes"},
+    {"quote": "Push yourself, because no one else is going to do it for you.", "author": "Unknown"},
+    {"quote": "Great things never come from comfort zones.", "author": "Unknown"},
+    {"quote": "Dream it. Wish it. Do it.", "author": "Unknown"},
+    {"quote": "Success doesn't just find you. You have to go out and get it.", "author": "Unknown"},
+    {"quote": "The harder you work for something, the greater you'll feel when you achieve it.", "author": "Unknown"},
+    {"quote": "Don't stop when you're tired. Stop when you're done.", "author": "Unknown"},
+    {"quote": "Wake up with determination. Go to bed with satisfaction.", "author": "Unknown"},
+    {"quote": "Little by little, a little becomes a lot.", "author": "Tanzanian Proverb"}
   ]
 }
